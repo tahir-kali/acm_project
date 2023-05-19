@@ -4,6 +4,8 @@ This laravel project is using modular architecture. The purpose of this project 
 
 Generate your first module using <code> php artisan module:make Blog </code>. The following structure will be generated.
 
+
+<code>
 Modules/
   ├── Blog/
       ├── Config/
@@ -32,3 +34,4 @@ Modules/
       ├── module.json
       ├── package.json
       ├── webpack.mix.js
+</code>
